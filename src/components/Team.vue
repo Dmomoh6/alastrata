@@ -88,7 +88,7 @@ import briefcaseIcon from "@/assets/briefcase.svg"
 
 const team = [
   {
-    firstName: "Hilary",
+    firstName: "Hilary Chisom",
     lastName: "Nwankwo",
     position: "MD/CEO",
     image: "/images/team-1.jpg",
@@ -96,7 +96,7 @@ const team = [
       "https://www.linkedin.com/in/hilary-chisom-nwankwo-acib-6561388b/",
     details: [
       "Experienced professional across Banking and Oil & Gas Trading & Finance",
-      "Formerly CFO of Oil trading firms Propetrol and Petroli",
+      "Formerly CFO of Oil trading firm Propetrol",
       // "Prior to this, he enjoyed an 8-year banking career across Access, Fidelity, and Sterling Bank",
       "Holds an MA Intl. Political Economy from King's College London and a BA Intl. Relations from University of St. Andrews, Scotland",
     ],

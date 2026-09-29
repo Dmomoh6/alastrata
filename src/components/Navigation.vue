@@ -5,7 +5,7 @@
         <!-- Logo -->
         <div class="flex-shrink-0 w-1/4">
           <div class="flex items-center">
-            <img class="h-10 w-auto" src="../assets/logo-white.png" alt="Alastrata" />
+            <img class="h-16 w-auto" src="../assets/logo-white.png" alt="Alastrata" />
           </div>
         </div>
       </div>

@@ -10,7 +10,7 @@
           class="space-y-4 flex items-center justify-center md:justify-start md:items-start flex-col"
         >
           <div class="flex items-center gap-3">
-            <img :src="logo" alt="Alastrata" class="h-8 w-auto" />
+            <img :src="logo" alt="Alastrata" class="h-16 w-auto" />
           </div>
           <p
             class="text-[#4A4A4A] text-sm md:text-left text-center lg:text-base max-w-[420px] leading-relaxed"
