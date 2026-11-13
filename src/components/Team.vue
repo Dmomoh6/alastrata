@@ -101,18 +101,18 @@ const team = [
       "Holds an MA Intl. Political Economy from King's College London and a BA Intl. Relations from University of St. Andrews, Scotland",
     ],
   },
-  {
-    firstName: "Ekemezie",
-    lastName: "Uche",
-    position: "DMD",
-    image: "/images/team-2.jpg",
-    linkedIn: "https://www.linkedin.com/in/ekemezie-uche-64840559/",
-    details: [
-      "Experienced professional across Management Consulting & Energy Finance",
-      "Formerly an Associate with CrossBoundary's Energy Innovation Lab",
-      "Formerly a Consultant with McKinsey & Company serving African & Middle Eastern clients across Banking, Oil & Gas, and Consumer Goods",
-      "Holds an MSc. from the London School of Economics and a BA from St. John's College, MD, USA.",
-    ],
-  },
+  // {
+  //   firstName: "Ekemezie",
+  //   lastName: "Uche",
+  //   position: "DMD",
+  //   image: "/images/team-2.jpg",
+  //   linkedIn: "https://www.linkedin.com/in/ekemezie-uche-64840559/",
+  //   details: [
+  //     "Experienced professional across Management Consulting & Energy Finance",
+  //     "Formerly an Associate with CrossBoundary's Energy Innovation Lab",
+  //     "Formerly a Consultant with McKinsey & Company serving African & Middle Eastern clients across Banking, Oil & Gas, and Consumer Goods",
+  //     "Holds an MSc. from the London School of Economics and a BA from St. John's College, MD, USA.",
+  //   ],
+  // },
 ]
 </script>
