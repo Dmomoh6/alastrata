@@ -24,7 +24,7 @@
       </div>
 
       <div
-        class="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-4 mx-auto max-w-6xl"
+        class="grid grid-cols-1 gap-4 lg:gap-4 mx-auto max-w-3xl"
       >
         <article
           v-for="member in team"
